@@ -19,3 +19,4 @@ LV1
 |[두 정수 사이의 합](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.java)|
 |[콜라츠 추측](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.java)|
 |[서울에서 김서방 찾기](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.java)|
+|[나누어 떨어지는 숫자 배열](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4.java)|
