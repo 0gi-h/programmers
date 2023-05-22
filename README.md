@@ -35,3 +35,4 @@ LV1
 |[최대공약수와 최소공배수](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java)|유클리드 호제법 a%b=r -> b%r=r'(나머지가 0일때 나누는 수가 최대공약수|
 |[같은 숫자는 싫어](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.java)|
 |[3진법 뒤집기](https://github.com/gi0-h/programmers/blob/main/LV1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.java)|String.valueOf(), Math.pow( , ) / Integer.parseInt(string, n진수)|
+|[이상한 문자 만들기](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)| Character.toUpperCase(), Character.toLowerCase()
