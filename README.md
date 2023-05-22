@@ -30,3 +30,4 @@ LV1
 |[문자열 내림차순으로 배치하기](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98.java)|
 |[부족한 금액 계산하기](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.java)|
 |[문자열 다루기 기본](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.java)|
+|[행렬의 덧셈](https://github.com/gi0-h/programmers/blob/main/LV1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.java)|이차원배열의 열의 크기는 arr[0].length로 파악가능|
