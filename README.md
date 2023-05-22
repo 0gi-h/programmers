@@ -33,3 +33,4 @@ LV1
 |[행렬의 덧셈](https://github.com/gi0-h/programmers/blob/main/LV1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.java)|이차원배열의 열의 크기는 arr[0].length로 파악가능|
 |[직사각형 별찍기](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.java)|
 |[최대공약수와 최소공배수](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java)|유클리드 호제법 a%b=r -> b%r=r'(나머지가 0일때 나누는 수가 최대공약수|
+|[같은 숫자는 싫어](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.java)|
