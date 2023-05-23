@@ -41,3 +41,4 @@ LV1
 |[삼총사](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%82%BC%EC%B4%9D%EC%82%AC.java)|
 |[최소직사각형](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.java)|이차원배열 정렬 Arrays.sort(sizes[i]), Math.max( , )|
 |[[1차] 비밀지도](https://github.com/gi0-h/programmers/blob/main/LV1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.java)|Integer.toBinaryString() -> 10진수를 2진수로 변환, 문자열.replace(기존문자, 대체할 문자);
+|[크기가 작은 부분문자열](https://github.com/gi0-h/programmers/blob/main/LV1/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.java)|Integer.parseInt() -> 런타임에러발생(표현범위초과), 문자열.substring(시작위치, 끝+1위치)
