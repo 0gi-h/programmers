@@ -39,3 +39,4 @@ LV1
 |[예산](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%98%88%EC%82%B0.java)|
 |[시저 암호](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.java)|
 |[삼총사](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%82%BC%EC%B4%9D%EC%82%AC.java)|
+|[최소직사각형](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.java)|이차원배열 정렬 Arrays.sort(sizes[i]), Math.max( , )|
