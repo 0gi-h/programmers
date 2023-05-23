@@ -38,3 +38,4 @@ LV1
 |[이상한 문자 만들기](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)| Character.toUpperCase(), Character.toLowerCase()
 |[예산](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%98%88%EC%82%B0.java)|
 |[시저 암호](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.java)|
+|[삼총사](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%82%BC%EC%B4%9D%EC%82%AC.java)|
