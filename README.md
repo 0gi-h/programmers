@@ -46,3 +46,4 @@ LV1
 |[K번째수](https://github.com/gi0-h/programmers/blob/main/LV1/K%EB%B2%88%EC%A7%B8%EC%88%98.java)|Arrays.copyOfRange(복사할배열, 시작인덱스, 끝인덱스) -> 시작인덱스부터 끝인덱스-1까지 복사|
 |[푸드 파이트 대회](https://github.com/gi0-h/programmers/blob/main/LV1/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.java)|
 |[콜라 문제](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.java)|
+|[가장 가까운 같은 글자](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.java)|
