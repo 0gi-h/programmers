@@ -48,3 +48,4 @@ LV1
 |[콜라 문제](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.java)|
 |[가장 가까운 같은 글자](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.java)|
 |[추억 점수](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.java)|Arrays.asList(배열).contains(찾을 값), Arrays.asList(배열).indexOf(찾을 값)
+|[2016년](https://github.com/gi0-h/programmers/blob/main/LV1/2016%EB%85%84.java)|
