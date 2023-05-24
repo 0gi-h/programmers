@@ -51,3 +51,4 @@ LV1
 |[2016년](https://github.com/gi0-h/programmers/blob/main/LV1/2016%EB%85%84.java)|
 |[폰켓몬](https://github.com/gi0-h/programmers/blob/main/LV1/%ED%8F%B0%EC%BC%93%EB%AA%AC.java)|ArrayList보다 HashSet을 쓰는것이 더 빠름|
 |[명예의 전당 (1)](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20(1).java)|Arrays.fill(배열, 값)
+|[과일 장수](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.java)|
