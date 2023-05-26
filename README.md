@@ -55,3 +55,4 @@ LV1
 |[소수 찾기](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.java)|[에라토스테네스의 체 알고리즘](https://namu.wiki/w/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)|
 |[공원 산책](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85.java)|Character.getNumericValue()|
 |[기사단원의 무기](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.java)|
+|[둘만의 암호](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8.java)|
