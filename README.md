@@ -56,3 +56,4 @@ LV1
 |[공원 산책](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85.java)|Character.getNumericValue()|
 |[기사단원의 무기](https://github.com/gi0-h/programmers/blob/main/LV1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.java)|
 |[둘만의 암호](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8.java)|
+|[옹알이(2)](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%98%B9%EC%95%8C%EC%9D%B4%20(2).java)|문자열.replaceAll(바꿀 문자, 바뀐문자)|
