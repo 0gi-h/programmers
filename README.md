@@ -62,3 +62,4 @@ LV1
 |[두 개 뽑아서 더하기](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.java)|
 |[모의고사](https://github.com/gi0-h/programmers/blob/main/LV1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)| man1[i % man1.length]로 각 사람의 정답  | 
 |[소수 만들기](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)| Math.sqrt(num) - 제곱근 |
+|[카드 뭉치](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.java)|
