@@ -64,3 +64,9 @@ LV1
 |[소수 만들기](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)| Math.sqrt(num) - 제곱근 |
 |[카드 뭉치](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.java)|
 |[실패율](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)| Arrays.copyOf(per, per.length) |
+
+
+LV0
+|문제|참고내용|
+|----|----|
+|[무작위로 K개의 수 뽑기]()|
