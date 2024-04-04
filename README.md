@@ -6,7 +6,7 @@ LV2
 |----|----|
 |[n^2 배열 자르기](https://github.com/0gi-h/programmers/edit/main/LV2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java)|2차원 배열[n][n]의 행은 1차원배열[n*n]의 idx/n, 열은 idx%n과 같다, 2차원배열[i][j]의 값은 i, j중 큰 수 +1, 배열|
 |[행렬의 곱셈](https://github.com/0gi-h/programmers/blob/main/LV2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.java)|배열|
-|[방문 길이](https://github.com/0gi-h/programmers/blob/main/LV2/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java)|배열|
+|[방문 길이](https://github.com/0gi-h/programmers/blob/main/LV2/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java)|HashMap에 이동 방향을 저장해 활용, 방향성이 없으므로 중복 제거에 용이한 HashSet사용, 배열|
 |[올바른 괄호](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.java)|스택|
 |[괄호 회전하기](https://github.com/0gi-h/programmers/blob/main/LV2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)|스택|
 |[짝지어 제거하기](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java)|스택|
