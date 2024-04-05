@@ -3,6 +3,7 @@
 
 LV3
 |문제|참고내용|
+|----|----|
 |[표 편집](https://github.com/0gi-h/programmers/blob/main/LV3/%ED%91%9C%20%ED%8E%B8%EC%A7%91.java)|위아래 위치를 배열에 저장해 연결 리스트처럼 활용,  어려움, 스택|
 
 
