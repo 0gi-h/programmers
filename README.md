@@ -76,6 +76,8 @@ LV1
 |[소수 만들기](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)| Math.sqrt(num) - 제곱근 |
 |[카드 뭉치](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.java)|
 |[실패율](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)| Arrays.copyOf(per, per.length), 배열 |
+|[크레인 인형뽑기 게임](https://github.com/0gi-h/programmers/blob/main/LV1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.java)|2차원 배열을 스택으로 변환해서 푸는 방법도 고려해볼만 함, 스택|
+
 
 
 LV0
