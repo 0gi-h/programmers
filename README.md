@@ -17,6 +17,7 @@ LV2
 |[괄호 회전하기](https://github.com/0gi-h/programmers/blob/main/LV2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)|스택|
 |[짝지어 제거하기](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java)|스택|
 |[주식가격](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)|배열의 값이 아닌 인덱스를 스택에 저장, 스택|
+|[기능개발](https://github.com/0gi-h/programmers/blob/main/LV2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)|각 기능의 완료시점을 미리 계산해서 비교, 큐|
 
 
 LV1
