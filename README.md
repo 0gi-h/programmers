@@ -84,7 +84,7 @@ LV1
 |[카드 뭉치](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.java)|
 |[실패율](https://github.com/gi0-h/programmers/blob/main/LV1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)| Arrays.copyOf(per, per.length), 배열 |
 |[크레인 인형뽑기 게임](https://github.com/0gi-h/programmers/blob/main/LV1/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.java)|2차원 배열을 스택으로 변환해서 푸는 방법도 고려해볼만 함, 스택|
-
+|[완주하지 못한 선수](https://github.com/0gi-h/programmers/blob/main/LV1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.java)|hashMap.getOrDefault(Key, DefaultValue) - 키가 있으면 해당 값, 없으면 DefaultValue반환, 해시|
 
 
 LV0
