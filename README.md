@@ -21,6 +21,7 @@ LV2
 |[할인행사](https://github.com/0gi-h/programmers/blob/main/LV2/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.java)|hashMap.equals(hashMap) - 두 해시 맵이 같을 시 true, 다를 시 false반환, 해시|
 |[오픈채팅방](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)|s.split(" "), 해시|
 |[메뉴 리뉴얼](https://github.com/0gi-h/programmers/blob/main/LV2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.java)|어려움, 공부필요, 해시|
+|[예상 대진표](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.java)|승리 시 배정받는 번호가 같으면 만났다는 의미, 트리|
 
 
 LV1
