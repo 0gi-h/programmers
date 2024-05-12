@@ -27,7 +27,7 @@ LV2
 |[메뉴 리뉴얼](https://github.com/0gi-h/programmers/blob/main/LV2/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.java)|어려움, 공부필요, 해시|
 |[예상 대진표](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.java)|승리 시 배정받는 번호가 같으면 만났다는 의미, 트리|
 |[영어 끝말잇기](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java)|HashSet 중복제거, 집합|
-
+|[게임 맵 최단거리](https://github.com/0gi-h/programmers/blob/main/LV2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java)|그래프, BFS, 오프셋을 통해 조건문 간소화, ArrayDeque을 활용한 큐|
 
 LV1
 |문제|참고내용|
