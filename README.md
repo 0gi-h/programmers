@@ -10,6 +10,7 @@ LV3
 |[양과 늑대](https://github.com/0gi-h/programmers/blob/main/LV3/%EC%96%91%EA%B3%BC%20%EB%8A%91%EB%8C%80.java)|주석참고, 어려움, BFS(넓이 우선 탐색), 트리|
 |[길 찾기 게임](https://github.com/0gi-h/programmers/blob/main/LV3/%EA%B8%B8%20%EC%B0%BE%EA%B8%B0%20%EA%B2%8C%EC%9E%84.java)|주석참고, 재귀로 순회 구현,트리|
 |[섬 연결하기](https://github.com/0gi-h/programmers/blob/main/LV3/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.java)|주석 참고, 사이클 여부 확인, 경로 압축, 집합, 최소 신장 트리|
+|[네트워크](https://github.com/0gi-h/programmers/blob/main/LV3/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java)|그래프, DFS, 방문체크 배열|
 
 LV2
 |문제|참고내용|
