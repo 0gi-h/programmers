@@ -30,6 +30,7 @@ LV2
 |[영어 끝말잇기](https://github.com/0gi-h/programmers/blob/main/LV2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java)|HashSet 중복제거, 집합|
 |[게임 맵 최단거리](https://github.com/0gi-h/programmers/blob/main/LV2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java)|그래프, BFS, 오프셋을 통해 조건문 간소화, ArrayDeque을 활용한 큐|
 |[미로 탈출](https://github.com/0gi-h/programmers/blob/main/LV2/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.java)|그래프, BFS, 이차원 문자열 배열을 char형 배열로 변환해 저장|
+|[배달](https://github.com/0gi-h/programmers/blob/main/LV2/%EB%B0%B0%EB%8B%AC.java)|그래프, 다익스트라 알고리즘, 가중치가 있는 그래프, 우선순위 큐|
 
 LV1
 |문제|참고내용|
