@@ -102,4 +102,4 @@ LV1
 LV0
 |문제|참고내용|
 |----|----|
-|[무작위로 K개의 수 뽑기](https://github.com/0gi-h/programmers/blob/main/LV0/%EB%AC%B4%EC%9E%91%EC%9C%84%EB%A1%9C%20K%EA%B0%9C%EC%9D%98%20%EC%88%98%20%EB%BD%91%EA%B8%B0)|
+|[무작위로 K개의 수 뽑기](https://github.com/0gi-h/programmers/blob/main/LV0/%EB%AC%B4%EC%9E%91%EC%9C%84%EB%A1%9C%20K%EA%B0%9C%EC%9D%98%20%EC%88%98%20%EB%BD%91%EA%B8%B0.java)|
