@@ -99,6 +99,7 @@ LV1
 |[완주하지 못한 선수](https://github.com/0gi-h/programmers/blob/main/LV1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.java)|hashMap.getOrDefault(Key, DefaultValue) - 키가 있으면 해당 값, 없으면 DefaultValue반환, 해시|
 |[신고 결과 받기](https://github.com/0gi-h/programmers/blob/main/LV1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.java)|해시맵의 반복문, 해시|
 |[[1차] 다트 게임](https://github.com/0gi-h/programmers/blob/main/LV1/%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.java)||
+|[문자열 나누기](https://github.com/0gi-h/programmers/blob/main/LV1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.java)||
 
 LV0
 |문제|참고내용|
