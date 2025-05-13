@@ -2,7 +2,7 @@
 프로그래머스 코딩 문제 풀이 기록
 
 |문제|참고내용|
-|상담 대기||
+|상담대기(https://github.com/0gi-h/programmers/blob/main/test/%EC%83%81%EB%8B%B4%EB%8C%80%EA%B8%B0.java)||
 
 LV3
 |문제|참고내용|
