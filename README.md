@@ -113,3 +113,4 @@ LV0
 |[문자열 바꿔서 찾기](https://github.com/0gi-h/programmers/blob/main/LV0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%94%EA%BF%94%EC%84%9C%20%EC%B0%BE%EA%B8%B0.java)||
 |[정수 찾기](https://github.com/0gi-h/programmers/blob/main/LV0/%EC%A0%95%EC%88%98%20%EC%B0%BE%EA%B8%B0.java)|int배열 -> Integer 리스트|
 |[배열의 원소 삭제하기](https://github.com/0gi-h/programmers/blob/main/LV0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.java)|remove(int) - 인덱스, remove(Integer) - 특정 값|
+|[x사이의 개수](https://github.com/0gi-h/programmers/blob/main/LV0/x%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.java)|split(regex, limit) - limit이 음수면 마지막 요소가 빈문자열일 경우 포함|
