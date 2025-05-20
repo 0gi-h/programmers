@@ -4,7 +4,7 @@
 |문제|참고내용|
 |----|----|
 |[상담대기](https://github.com/0gi-h/programmers/blob/main/test/%EC%83%81%EB%8B%B4%EB%8C%80%EA%B8%B0.java)||
-|[적합한 행 선정하기]()||
+|[적합한 행 선정하기](https://github.com/0gi-h/programmers/blob/main/test/%EC%A0%81%ED%95%A9%ED%95%9C%20%ED%96%89%20%EC%84%A0%EC%A0%95%ED%95%98%EA%B8%B0.java)||
 
 LV3
 |문제|참고내용|
