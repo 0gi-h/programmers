@@ -105,6 +105,7 @@ LV1
 |[신고 결과 받기](https://github.com/0gi-h/programmers/blob/main/LV1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.java)|해시맵의 반복문, 해시|
 |[[1차] 다트 게임](https://github.com/0gi-h/programmers/blob/main/LV1/%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.java)||
 |[문자열 나누기](https://github.com/0gi-h/programmers/blob/main/LV1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.java)||
+|[대충 만든 자판](https://github.com/0gi-h/programmers/blob/main/LV1/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.java)||
 
 LV0
 |문제|참고내용|
