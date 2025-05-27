@@ -106,6 +106,7 @@ LV1
 |[[1차] 다트 게임](https://github.com/0gi-h/programmers/blob/main/LV1/%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.java)||
 |[문자열 나누기](https://github.com/0gi-h/programmers/blob/main/LV1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.java)||
 |[대충 만든 자판](https://github.com/0gi-h/programmers/blob/main/LV1/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.java)||
+|[이웃한 칸](https://github.com/0gi-h/programmers/blob/main/LV1/%EC%9D%B4%EC%9B%83%ED%95%9C%20%EC%B9%B8.java)||
 
 LV0
 |문제|참고내용|
